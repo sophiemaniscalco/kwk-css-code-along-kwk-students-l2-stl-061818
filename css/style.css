@@ -1,1 +1,18 @@
-/* add CSS class and element and selectors here */
+ body {
+      background-color: lightpink;
+      font-size: 150%;
+    }
+    
+     .myClass {
+      background-color: lightgray;
+      color: purple
+    }
+    
+    .sophie {
+      background-color: purple;
+      border: orange 15px solid;
+    }
+    
+   #koolklass {
+   color: purple;   
+    }
